@@ -106,7 +106,9 @@ You just need [Java](https://www.java.com/en/). IDE is highly recommended such a
    ```sh
    git clone https://github.com/kin9787/Ferry-Ticketing-System-Assignment.git
    ```
-2. Within the folder, simply just run the Java file by clicking the Run button within the IDE.
+2. After that navigate to the file and extract the zip folder.
+3. Within the zip folder extract the IOOP.zip
+4. Within the IOOP folder, simply just run the Java file by clicking the Run button within the IDE.
 
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
